@@ -6,6 +6,45 @@
 <p align=center><font size=5>团队名称：<u>WeChair</u></font></p>
 <p align=center><font size=5>指导老师：<u>张栋</u></font></p>
 
+<h2 align="center">目录</h2>
+<div>
+<br><a style="font-size:18px" >第一章 引言</a>
+<br><a style="font-size:16px" >  1.1 编写目的</a>
+<br><a style="font-size:16px" >  1.2 预期读者</a>
+<br><a style="font-size:16px" >  1.3 项目背景</a>
+<br><a style="font-size:16px" >  1.4 参考资料</a>
+<br><a style="font-size:18px" >第二章 系统说明</a>
+<br><a style="font-size:16px" >  2.1 产品描述</a>
+<br><a style="font-size:16px" >  2.2 产品功能</a>
+<br><a style="font-size:14px" >    2.2.1 活动图</a>
+<br><a style="font-size:14px" >    2.2.2 类图 </a>
+<br><a style="font-size:14px" >    2.2.3 主要功能说明 </a>  
+<br><a style="font-size:16px" >  2.3 用户特点</a>
+<br><a style="font-size:14px" >    2.3.1 用户群体 </a>
+<br><a style="font-size:14px" >    2.3.1 典型用户场景 </a>  
+<br><a style="font-size:16px" >  2.4 一般约束</a>
+<br><a style="font-size:16px" >  2.5 假设和依赖</a>
+<br><a style="font-size:18px" >第三章 功能性需求</a>
+<br><a style="font-size:16px" >  3.1 界面原型</a>     
+<br><a style="font-size:16px" >  3.2 硬件接口</a>
+<br><a style="font-size:16px" >  3.3 软件接口</a>
+<br><a style="font-size:16px" >  3.4 通信接口</a>
+<br><a style="font-size:18px" >第四章 非功能性需求</a>    
+<br><a style="font-size:16px" >  4.1 性能需求</a> 
+<br><a style="font-size:14px" >    4.1.1个人信息精度(学生)</a>
+<br><a style="font-size:14px" >    4.1.2个人信息精度(管理员)</a>
+<br><a style="font-size:14px" >    4.1.3座位信息精度(图书馆)</a>
+<br><a style="font-size:14px" >    4.1.4分享信息精度</a>
+<br><a style="font-size:14px" >    4.1.5学习时长及排行榜精度</a>
+<br><a style="font-size:16px" >  4.2 软件属性</a> 
+<br><a style="font-size:14px" >    4.2.1 可靠性</a>
+<br><a style="font-size:14px" >    4.2.2 可用性</a>
+<br><a style="font-size:14px" >    4.2.3 安全保密性</a>
+<br><a style="font-size:14px" >    4.2.4 可维护性</a>
+<br><a style="font-size:18px" >第五章 验收验证标准</a>
+<br>
+</div>
+
 <p align=center><b><font size=7>第一章&emsp;引言</font></b></p>
 <p><font size=6><b>1.1编写目的</b></font></p>
 <p><font size=4>&emsp;&emsp;为准确描述软件定位，明确软件需求，减少开发工作以及便于软件升级和产品转移撰写本文档。本篇软件规格说明书详细描述了“WeChair”这一小程序的用户需求、软件规格等内容。方便用户深入了解该小程序。同时也是开发者进行开发、测试以及软件验收的主要依据。</font></p>
